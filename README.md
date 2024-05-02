@@ -35,8 +35,6 @@
     - bagian gelap harusnya dijadikan benar-benar hitam karena sekarang monster bisa terlihat meskipun jauh
 
 3. Dari feedback-feedback yang telah diperoleh, apakah ada isu yang terkait pencapaian kondisi flow oleh pemain?
-    - Misalnya, apakah ada tantangan di dalam game yang masih kurang tepat dengan kemampuan pemain pada level tertentu?
-    - Atau, apakah ada rancangan level di dalam game yang dirasa terlalu membosankan bagi pemain?
     - Level pertama yang terlalu simpel karena kode ditempatkan tepat di sebelah loker
     - Level kedua yang menjadikan kucing sebagai enemy membuat playtester bingung karena kurangnya informasi bahwa kucing tersebut harus dihindari. Gerakan kucing juga predictable
     - Level ketiga sudah seru, banyak playtester yang merasa puas
