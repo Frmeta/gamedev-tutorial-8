@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/flagGreen_down.png-d269b9ef5a18f11cf56aef09eed7d2f0.stex"
+path="res://.import/flagGreen_down.png-668e0b5e61e9c51dce6d075987f04319.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/kenney_platformerpack/PNG/Items/flagGreen_down.png"
-dest_files=[ "res://.import/flagGreen_down.png-d269b9ef5a18f11cf56aef09eed7d2f0.stex" ]
+source_file="res://assets/kenney_platformerpack/PNG/Items/flagGreen_down.png"
+dest_files=[ "res://.import/flagGreen_down.png-668e0b5e61e9c51dce6d075987f04319.stex" ]
 
 [params]
 
@@ -28,6 +28,7 @@ process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/saw.png-ec134e26b1693c2b599145ccc5d25a7e.stex"
+path="res://.import/saw.png-2f7bdc79c6b62361e9319c568856dbfc.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/kenney_platformerpack/PNG/Enemies/saw.png"
-dest_files=[ "res://.import/saw.png-ec134e26b1693c2b599145ccc5d25a7e.stex" ]
+source_file="res://assets/kenney_platformerpack/PNG/Enemies/saw.png"
+dest_files=[ "res://.import/saw.png-2f7bdc79c6b62361e9319c568856dbfc.stex" ]
 
 [params]
 
@@ -28,6 +28,7 @@ process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true

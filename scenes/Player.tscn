@@ -1,7 +1,8 @@
-[gd_scene load_steps=7 format=2]
+[gd_scene load_steps=9 format=2]
 
 [ext_resource path="res://Scripts/Player.gd" type="Script" id=1]
 [ext_resource path="res://Assets/kenney_platformerpack/Spritesheets/spritesheet_alien.png" type="Texture" id=2]
+[ext_resource path="res://assets/kenney_platformerpack/PNG/Particles/brickGrey_small.png" type="Texture" id=3]
 
 [sub_resource type="RectangleShape2D" id=1]
 extents = Vector2( 26.462, 38.442 )
@@ -54,6 +55,16 @@ tracks/0/keys = {
 "values": [ 0, 1 ]
 }
 
+[sub_resource type="ParticlesMaterial" id=5]
+emission_shape = 2
+emission_box_extents = Vector3( 30, 1, 1 )
+flag_disable_z = true
+spread = 180.0
+gravity = Vector3( 0, -200, 0 )
+initial_velocity = 50.0
+orbit_velocity = 0.0
+orbit_velocity_random = 0.0
+
 [node name="Player" type="KinematicBody2D"]
 script = ExtResource( 1 )
 
@@ -74,3 +85,11 @@ anims/Walk = SubResource( 4 )
 
 [node name="Camera2D" type="Camera2D" parent="."]
 current = true
+
+[node name="Particles2D" type="Particles2D" parent="."]
+position = Vector2( 1, 30 )
+amount = 4
+lifetime = 0.5
+local_coords = false
+process_material = SubResource( 5 )
+texture = ExtResource( 3 )

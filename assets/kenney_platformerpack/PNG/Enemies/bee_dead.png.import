@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/bee_dead.png-895336185c6d379651ee4cde3c8a5845.stex"
+path="res://.import/bee_dead.png-a70496da74dcb55bed1aa220168d7180.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/kenney_platformerpack/PNG/Enemies/bee_dead.png"
-dest_files=[ "res://.import/bee_dead.png-895336185c6d379651ee4cde3c8a5845.stex" ]
+source_file="res://assets/kenney_platformerpack/PNG/Enemies/bee_dead.png"
+dest_files=[ "res://.import/bee_dead.png-a70496da74dcb55bed1aa220168d7180.stex" ]
 
 [params]
 
@@ -28,6 +28,7 @@ process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true

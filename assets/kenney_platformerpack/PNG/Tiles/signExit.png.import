@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/signExit.png-3b6a058ea018810c779d2eb5b9e3539d.stex"
+path="res://.import/signExit.png-8311ef87caeaa6cbf448614b077429b0.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/kenney_platformerpack/PNG/Tiles/signExit.png"
-dest_files=[ "res://.import/signExit.png-3b6a058ea018810c779d2eb5b9e3539d.stex" ]
+source_file="res://assets/kenney_platformerpack/PNG/Tiles/signExit.png"
+dest_files=[ "res://.import/signExit.png-8311ef87caeaa6cbf448614b077429b0.stex" ]
 
 [params]
 
@@ -28,6 +28,7 @@ process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true

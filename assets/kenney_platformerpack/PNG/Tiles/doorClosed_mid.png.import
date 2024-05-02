@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/doorClosed_mid.png-1f5caee0d08f47b3f764e9030e17bf9a.stex"
+path="res://.import/doorClosed_mid.png-daaddc6d6bc8ca231ab2e1e6b33b30e8.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/kenney_platformerpack/PNG/Tiles/doorClosed_mid.png"
-dest_files=[ "res://.import/doorClosed_mid.png-1f5caee0d08f47b3f764e9030e17bf9a.stex" ]
+source_file="res://assets/kenney_platformerpack/PNG/Tiles/doorClosed_mid.png"
+dest_files=[ "res://.import/doorClosed_mid.png-daaddc6d6bc8ca231ab2e1e6b33b30e8.stex" ]
 
 [params]
 
@@ -28,6 +28,7 @@ process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true

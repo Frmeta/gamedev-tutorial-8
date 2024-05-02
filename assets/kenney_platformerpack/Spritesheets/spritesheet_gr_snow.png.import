@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/spritesheet_gr_snow.png-2ee9081543cd3f6312e9c3bc67065be3.stex"
+path="res://.import/spritesheet_gr_snow.png-45ab8966e42e388615b1ba87d15551b1.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/kenney_platformerpack/Spritesheets/spritesheet_gr_snow.png"
-dest_files=[ "res://.import/spritesheet_gr_snow.png-2ee9081543cd3f6312e9c3bc67065be3.stex" ]
+source_file="res://assets/kenney_platformerpack/Spritesheets/spritesheet_gr_snow.png"
+dest_files=[ "res://.import/spritesheet_gr_snow.png-45ab8966e42e388615b1ba87d15551b1.stex" ]
 
 [params]
 
@@ -28,6 +28,7 @@ process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/lockGreen.png-a2c3b5d9e902123881d0600b4fe1500b.stex"
+path="res://.import/lockGreen.png-4def4b60e7b1dfdad0b7b4cb663b8091.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/kenney_platformerpack/PNG/Tiles/lockGreen.png"
-dest_files=[ "res://.import/lockGreen.png-a2c3b5d9e902123881d0600b4fe1500b.stex" ]
+source_file="res://assets/kenney_platformerpack/PNG/Tiles/lockGreen.png"
+dest_files=[ "res://.import/lockGreen.png-4def4b60e7b1dfdad0b7b4cb663b8091.stex" ]
 
 [params]
 
@@ -28,6 +28,7 @@ process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true

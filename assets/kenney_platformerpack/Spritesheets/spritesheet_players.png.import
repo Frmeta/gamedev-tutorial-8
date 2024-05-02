@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/spritesheet_players.png-79e15c940ff655a6ef44501987e502fa.stex"
+path="res://.import/spritesheet_players.png-9547185eb0a223c2a2476d482c260b4c.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/kenney_platformerpack/Spritesheets/spritesheet_players.png"
-dest_files=[ "res://.import/spritesheet_players.png-79e15c940ff655a6ef44501987e502fa.stex" ]
+source_file="res://assets/kenney_platformerpack/Spritesheets/spritesheet_players.png"
+dest_files=[ "res://.import/spritesheet_players.png-9547185eb0a223c2a2476d482c260b4c.stex" ]
 
 [params]
 
@@ -28,6 +28,7 @@ process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true

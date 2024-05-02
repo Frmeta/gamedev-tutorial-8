@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/planet.png-aa2e2448b3500b9c0d642ff061dafeaa.stex"
+path="res://.import/planet.png-3c5ca6f01e8e21e4621bc483e80ad514.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/kenney_platformerpack/PNG/Ground/Planet/planet.png"
-dest_files=[ "res://.import/planet.png-aa2e2448b3500b9c0d642ff061dafeaa.stex" ]
+source_file="res://assets/kenney_platformerpack/PNG/Ground/Planet/planet.png"
+dest_files=[ "res://.import/planet.png-3c5ca6f01e8e21e4621bc483e80ad514.stex" ]
 
 [params]
 
@@ -28,6 +28,7 @@ process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true

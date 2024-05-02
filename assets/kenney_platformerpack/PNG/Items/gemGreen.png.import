@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/gemGreen.png-3f7fe739ae63f9039f72a6b45a1da16b.stex"
+path="res://.import/gemGreen.png-0857718160b8bde183eabbdf1675e3fa.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/kenney_platformerpack/PNG/Items/gemGreen.png"
-dest_files=[ "res://.import/gemGreen.png-3f7fe739ae63f9039f72a6b45a1da16b.stex" ]
+source_file="res://assets/kenney_platformerpack/PNG/Items/gemGreen.png"
+dest_files=[ "res://.import/gemGreen.png-0857718160b8bde183eabbdf1675e3fa.stex" ]
 
 [params]
 
@@ -28,6 +28,7 @@ process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true

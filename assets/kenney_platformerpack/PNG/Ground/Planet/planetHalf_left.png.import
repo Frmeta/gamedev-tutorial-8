@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/planetHalf_left.png-a9ef49dd712e8b0e69269e2a89c3e5ac.stex"
+path="res://.import/planetHalf_left.png-25861bf111133489b194017e58001227.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/kenney_platformerpack/PNG/Ground/Planet/planetHalf_left.png"
-dest_files=[ "res://.import/planetHalf_left.png-a9ef49dd712e8b0e69269e2a89c3e5ac.stex" ]
+source_file="res://assets/kenney_platformerpack/PNG/Ground/Planet/planetHalf_left.png"
+dest_files=[ "res://.import/planetHalf_left.png-25861bf111133489b194017e58001227.stex" ]
 
 [params]
 
@@ -28,6 +28,7 @@ process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true

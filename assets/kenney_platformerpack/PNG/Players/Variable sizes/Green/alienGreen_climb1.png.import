@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/alienGreen_climb1.png-34658c6583ae79d20869be80a6f9a3ad.stex"
+path="res://.import/alienGreen_climb1.png-1a6e05f0be77153dca054b3a7686bf7f.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/kenney_platformerpack/PNG/Players/Variable sizes/Green/alienGreen_climb1.png"
-dest_files=[ "res://.import/alienGreen_climb1.png-34658c6583ae79d20869be80a6f9a3ad.stex" ]
+source_file="res://assets/kenney_platformerpack/PNG/Players/Variable sizes/Green/alienGreen_climb1.png"
+dest_files=[ "res://.import/alienGreen_climb1.png-1a6e05f0be77153dca054b3a7686bf7f.stex" ]
 
 [params]
 
@@ -28,6 +28,7 @@ process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true

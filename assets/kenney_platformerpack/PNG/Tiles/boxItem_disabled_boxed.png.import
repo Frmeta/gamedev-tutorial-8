@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/boxItem_disabled_boxed.png-1aff42595b40a777391189d99e1090d9.stex"
+path="res://.import/boxItem_disabled_boxed.png-0c8473f80328ced423d3a55a9d5a1f4f.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/kenney_platformerpack/PNG/Tiles/boxItem_disabled_boxed.png"
-dest_files=[ "res://.import/boxItem_disabled_boxed.png-1aff42595b40a777391189d99e1090d9.stex" ]
+source_file="res://assets/kenney_platformerpack/PNG/Tiles/boxItem_disabled_boxed.png"
+dest_files=[ "res://.import/boxItem_disabled_boxed.png-0c8473f80328ced423d3a55a9d5a1f4f.stex" ]
 
 [params]
 
@@ -28,6 +28,7 @@ process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true

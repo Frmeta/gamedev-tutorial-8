@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/dirtMid.png-259944cb9deece2be5cda1159c578376.stex"
+path="res://.import/dirtMid.png-0b925587f5d04e1ce849bef3f26fbf95.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/kenney_platformerpack/PNG/Ground/Dirt/dirtMid.png"
-dest_files=[ "res://.import/dirtMid.png-259944cb9deece2be5cda1159c578376.stex" ]
+source_file="res://assets/kenney_platformerpack/PNG/Ground/Dirt/dirtMid.png"
+dest_files=[ "res://.import/dirtMid.png-0b925587f5d04e1ce849bef3f26fbf95.stex" ]
 
 [params]
 
@@ -28,6 +28,7 @@ process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true

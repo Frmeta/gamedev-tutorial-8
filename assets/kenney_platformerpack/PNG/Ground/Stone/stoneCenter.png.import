@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/stoneCenter.png-7f6185f262a45edaa0e37f8135a1853a.stex"
+path="res://.import/stoneCenter.png-d0086e8875d0453ddb057972ce3793e6.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/kenney_platformerpack/PNG/Ground/Stone/stoneCenter.png"
-dest_files=[ "res://.import/stoneCenter.png-7f6185f262a45edaa0e37f8135a1853a.stex" ]
+source_file="res://assets/kenney_platformerpack/PNG/Ground/Stone/stoneCenter.png"
+dest_files=[ "res://.import/stoneCenter.png-d0086e8875d0453ddb057972ce3793e6.stex" ]
 
 [params]
 
@@ -28,6 +28,7 @@ process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true

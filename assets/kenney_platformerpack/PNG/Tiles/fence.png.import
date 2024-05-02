@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/fence.png-abc6fb9926edd8b1d1a072bc2787ab83.stex"
+path="res://.import/fence.png-af935c0cf25f334850657f710d404360.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/kenney_platformerpack/PNG/Tiles/fence.png"
-dest_files=[ "res://.import/fence.png-abc6fb9926edd8b1d1a072bc2787ab83.stex" ]
+source_file="res://assets/kenney_platformerpack/PNG/Tiles/fence.png"
+dest_files=[ "res://.import/fence.png-af935c0cf25f334850657f710d404360.stex" ]
 
 [params]
 
@@ -28,6 +28,7 @@ process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true

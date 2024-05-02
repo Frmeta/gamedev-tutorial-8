@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/sawHalf_move.png-dd8f0dc0be3fdac61e9b8f0a692cee80.stex"
+path="res://.import/sawHalf_move.png-dda7fb58fd4427ebbabbed2219df8936.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/kenney_platformerpack/PNG/Enemies/sawHalf_move.png"
-dest_files=[ "res://.import/sawHalf_move.png-dd8f0dc0be3fdac61e9b8f0a692cee80.stex" ]
+source_file="res://assets/kenney_platformerpack/PNG/Enemies/sawHalf_move.png"
+dest_files=[ "res://.import/sawHalf_move.png-dda7fb58fd4427ebbabbed2219df8936.stex" ]
 
 [params]
 
@@ -28,6 +28,7 @@ process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/lockYellow.png-0463a0ad14ae48ef129534e2cb50f32e.stex"
+path="res://.import/lockYellow.png-fdfab7ee0ec4fa7e89ed4b2876642d0b.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/kenney_platformerpack/PNG/Tiles/lockYellow.png"
-dest_files=[ "res://.import/lockYellow.png-0463a0ad14ae48ef129534e2cb50f32e.stex" ]
+source_file="res://assets/kenney_platformerpack/PNG/Tiles/lockYellow.png"
+dest_files=[ "res://.import/lockYellow.png-fdfab7ee0ec4fa7e89ed4b2876642d0b.stex" ]
 
 [params]
 
@@ -28,6 +28,7 @@ process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/hudJewel_green_empty.png-f3cb312e1bb94b3cf239725303e481aa.stex"
+path="res://.import/hudJewel_green_empty.png-3049e2669fd9c2b450fb47bd40c8ac24.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/kenney_platformerpack/PNG/HUD/hudJewel_green_empty.png"
-dest_files=[ "res://.import/hudJewel_green_empty.png-f3cb312e1bb94b3cf239725303e481aa.stex" ]
+source_file="res://assets/kenney_platformerpack/PNG/HUD/hudJewel_green_empty.png"
+dest_files=[ "res://.import/hudJewel_green_empty.png-3049e2669fd9c2b450fb47bd40c8ac24.stex" ]
 
 [params]
 
@@ -28,6 +28,7 @@ process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true

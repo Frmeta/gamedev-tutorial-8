@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/hudKey_red.png-150949896292ebcd969442ed71f9f40d.stex"
+path="res://.import/hudKey_red.png-85e849ef8933e69612c3801c94a18989.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/kenney_platformerpack/PNG/HUD/hudKey_red.png"
-dest_files=[ "res://.import/hudKey_red.png-150949896292ebcd969442ed71f9f40d.stex" ]
+source_file="res://assets/kenney_platformerpack/PNG/HUD/hudKey_red.png"
+dest_files=[ "res://.import/hudKey_red.png-85e849ef8933e69612c3801c94a18989.stex" ]
 
 [params]
 
@@ -28,6 +28,7 @@ process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true

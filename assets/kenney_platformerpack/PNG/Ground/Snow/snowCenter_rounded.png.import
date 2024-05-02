@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/snowCenter_rounded.png-16c26f0793bbf470fba23c19918133ad.stex"
+path="res://.import/snowCenter_rounded.png-53e41f8df5d4e8165025981c11505709.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/kenney_platformerpack/PNG/Ground/Snow/snowCenter_rounded.png"
-dest_files=[ "res://.import/snowCenter_rounded.png-16c26f0793bbf470fba23c19918133ad.stex" ]
+source_file="res://assets/kenney_platformerpack/PNG/Ground/Snow/snowCenter_rounded.png"
+dest_files=[ "res://.import/snowCenter_rounded.png-53e41f8df5d4e8165025981c11505709.stex" ]
 
 [params]
 
@@ -28,6 +28,7 @@ process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true

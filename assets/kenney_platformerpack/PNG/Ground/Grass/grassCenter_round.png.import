@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/grassCenter_round.png-8ab061b2f50c204e9efaf521a7ee187d.stex"
+path="res://.import/grassCenter_round.png-d16823b77ce6b3dba8496c6700849c63.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/kenney_platformerpack/PNG/Ground/Grass/grassCenter_round.png"
-dest_files=[ "res://.import/grassCenter_round.png-8ab061b2f50c204e9efaf521a7ee187d.stex" ]
+source_file="res://assets/kenney_platformerpack/PNG/Ground/Grass/grassCenter_round.png"
+dest_files=[ "res://.import/grassCenter_round.png-d16823b77ce6b3dba8496c6700849c63.stex" ]
 
 [params]
 
@@ -28,6 +28,7 @@ process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true

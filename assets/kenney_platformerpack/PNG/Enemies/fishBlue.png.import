@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/fishBlue.png-b3f035b2a051a8d5464fbf44590531c0.stex"
+path="res://.import/fishBlue.png-3087d44fbb6468794c057a3e6610fdf6.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/kenney_platformerpack/PNG/Enemies/fishBlue.png"
-dest_files=[ "res://.import/fishBlue.png-b3f035b2a051a8d5464fbf44590531c0.stex" ]
+source_file="res://assets/kenney_platformerpack/PNG/Enemies/fishBlue.png"
+dest_files=[ "res://.import/fishBlue.png-3087d44fbb6468794c057a3e6610fdf6.stex" ]
 
 [params]
 
@@ -28,6 +28,7 @@ process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true

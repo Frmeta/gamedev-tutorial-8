@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/snowCliff_right.png-dd13d275e72030e262332dfdf7a52b39.stex"
+path="res://.import/snowCliff_right.png-912110aeb9fae0df91de1ea97d787f5e.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/kenney_platformerpack/PNG/Ground/Snow/snowCliff_right.png"
-dest_files=[ "res://.import/snowCliff_right.png-dd13d275e72030e262332dfdf7a52b39.stex" ]
+source_file="res://assets/kenney_platformerpack/PNG/Ground/Snow/snowCliff_right.png"
+dest_files=[ "res://.import/snowCliff_right.png-912110aeb9fae0df91de1ea97d787f5e.stex" ]
 
 [params]
 
@@ -28,6 +28,7 @@ process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true

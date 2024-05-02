@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/sprung.png-065e39f3b856f68ac376b342049da560.stex"
+path="res://.import/sprung.png-3df5e96e8f6872a2efc237d883e7fa2c.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/kenney_platformerpack/PNG/Tiles/sprung.png"
-dest_files=[ "res://.import/sprung.png-065e39f3b856f68ac376b342049da560.stex" ]
+source_file="res://assets/kenney_platformerpack/PNG/Tiles/sprung.png"
+dest_files=[ "res://.import/sprung.png-3df5e96e8f6872a2efc237d883e7fa2c.stex" ]
 
 [params]
 
@@ -28,6 +28,7 @@ process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Familiar Looking Rocket.png-0136ffee442417acbe8100d8d4cded0c.stex"
+path="res://.import/Familiar Looking Rocket.png-39283af0ccd2c4eeeaade051d7261f81.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Familiar Looking Rocket.png"
-dest_files=[ "res://.import/Familiar Looking Rocket.png-0136ffee442417acbe8100d8d4cded0c.stex" ]
+source_file="res://assets/Familiar Looking Rocket.png"
+dest_files=[ "res://.import/Familiar Looking Rocket.png-39283af0ccd2c4eeeaade051d7261f81.stex" ]
 
 [params]
 
@@ -28,6 +28,7 @@ process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true

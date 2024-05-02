@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/fishPink.png-bacd1a7489057195efd6e5f6175a3ebe.stex"
+path="res://.import/fishPink.png-b1b1e1b94c9973176bfe848d430c69a0.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/kenney_platformerpack/PNG/Enemies/fishPink.png"
-dest_files=[ "res://.import/fishPink.png-bacd1a7489057195efd6e5f6175a3ebe.stex" ]
+source_file="res://assets/kenney_platformerpack/PNG/Enemies/fishPink.png"
+dest_files=[ "res://.import/fishPink.png-b1b1e1b94c9973176bfe848d430c69a0.stex" ]
 
 [params]
 
@@ -28,6 +28,7 @@ process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true

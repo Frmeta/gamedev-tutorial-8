@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/boxExplosive.png-bc22e5ee06ff7bdf322fffcc6f410f9d.stex"
+path="res://.import/boxExplosive.png-fa63c92b51f667fa24da47d80700c426.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/kenney_platformerpack/PNG/Tiles/boxExplosive.png"
-dest_files=[ "res://.import/boxExplosive.png-bc22e5ee06ff7bdf322fffcc6f410f9d.stex" ]
+source_file="res://assets/kenney_platformerpack/PNG/Tiles/boxExplosive.png"
+dest_files=[ "res://.import/boxExplosive.png-fa63c92b51f667fa24da47d80700c426.stex" ]
 
 [params]
 
@@ -28,6 +28,7 @@ process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true

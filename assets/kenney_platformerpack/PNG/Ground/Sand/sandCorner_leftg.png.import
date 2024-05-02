@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/sandCorner_leftg.png-577ddd11a511c464fb62c2b629556d30.stex"
+path="res://.import/sandCorner_leftg.png-e362a22c53c6262eefb85267fe1b7762.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/kenney_platformerpack/PNG/Ground/Sand/sandCorner_leftg.png"
-dest_files=[ "res://.import/sandCorner_leftg.png-577ddd11a511c464fb62c2b629556d30.stex" ]
+source_file="res://assets/kenney_platformerpack/PNG/Ground/Sand/sandCorner_leftg.png"
+dest_files=[ "res://.import/sandCorner_leftg.png-e362a22c53c6262eefb85267fe1b7762.stex" ]
 
 [params]
 
@@ -28,6 +28,7 @@ process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true

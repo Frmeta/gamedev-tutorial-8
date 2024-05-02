@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/lava.png-8bff1875218792ea055f0bed47cdbd48.stex"
+path="res://.import/lava.png-e9a2756868184c69279732d90e55c317.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/kenney_platformerpack/PNG/Tiles/lava.png"
-dest_files=[ "res://.import/lava.png-8bff1875218792ea055f0bed47cdbd48.stex" ]
+source_file="res://assets/kenney_platformerpack/PNG/Tiles/lava.png"
+dest_files=[ "res://.import/lava.png-e9a2756868184c69279732d90e55c317.stex" ]
 
 [params]
 
@@ -28,6 +28,7 @@ process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true

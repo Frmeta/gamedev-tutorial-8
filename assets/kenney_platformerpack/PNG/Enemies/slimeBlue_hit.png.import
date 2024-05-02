@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/slimeBlue_hit.png-9cb5faa0c70310655f5079d86cc6d206.stex"
+path="res://.import/slimeBlue_hit.png-92b15fabcb74a405b2b8ffd2e91c31a7.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/kenney_platformerpack/PNG/Enemies/slimeBlue_hit.png"
-dest_files=[ "res://.import/slimeBlue_hit.png-9cb5faa0c70310655f5079d86cc6d206.stex" ]
+source_file="res://assets/kenney_platformerpack/PNG/Enemies/slimeBlue_hit.png"
+dest_files=[ "res://.import/slimeBlue_hit.png-92b15fabcb74a405b2b8ffd2e91c31a7.stex" ]
 
 [params]
 
@@ -28,6 +28,7 @@ process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true

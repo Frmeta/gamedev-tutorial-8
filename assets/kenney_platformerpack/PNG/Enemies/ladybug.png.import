@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/ladybug.png-eecf57899c384624d923fa0061fb9241.stex"
+path="res://.import/ladybug.png-f57d1ca0e8ecdeb418a3e83d078fc8c7.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/kenney_platformerpack/PNG/Enemies/ladybug.png"
-dest_files=[ "res://.import/ladybug.png-eecf57899c384624d923fa0061fb9241.stex" ]
+source_file="res://assets/kenney_platformerpack/PNG/Enemies/ladybug.png"
+dest_files=[ "res://.import/ladybug.png-f57d1ca0e8ecdeb418a3e83d078fc8c7.stex" ]
 
 [params]
 
@@ -28,6 +28,7 @@ process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/slimeBlock_dead.png-6bee7a0a570f76ddcee29f2e3e61212a.stex"
+path="res://.import/slimeBlock_dead.png-78ea6b50640e18a1892de803a86dabde.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/kenney_platformerpack/PNG/Enemies/slimeBlock_dead.png"
-dest_files=[ "res://.import/slimeBlock_dead.png-6bee7a0a570f76ddcee29f2e3e61212a.stex" ]
+source_file="res://assets/kenney_platformerpack/PNG/Enemies/slimeBlock_dead.png"
+dest_files=[ "res://.import/slimeBlock_dead.png-78ea6b50640e18a1892de803a86dabde.stex" ]
 
 [params]
 
@@ -28,6 +28,7 @@ process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/frog_dead.png-46f5572eae0687bfd71ac7f1cf5acf65.stex"
+path="res://.import/frog_dead.png-cc151e8f4981e9b16ffa6e1a4fabdd8d.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/kenney_platformerpack/PNG/Enemies/frog_dead.png"
-dest_files=[ "res://.import/frog_dead.png-46f5572eae0687bfd71ac7f1cf5acf65.stex" ]
+source_file="res://assets/kenney_platformerpack/PNG/Enemies/frog_dead.png"
+dest_files=[ "res://.import/frog_dead.png-cc151e8f4981e9b16ffa6e1a4fabdd8d.stex" ]
 
 [params]
 
@@ -28,6 +28,7 @@ process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true

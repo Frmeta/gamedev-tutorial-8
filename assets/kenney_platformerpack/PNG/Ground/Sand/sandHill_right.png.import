@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/sandHill_right.png-a973cd657bf87fb59fadfba5d9197a0a.stex"
+path="res://.import/sandHill_right.png-592429f9d31c9c0126c96db3f2bf5949.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/kenney_platformerpack/PNG/Ground/Sand/sandHill_right.png"
-dest_files=[ "res://.import/sandHill_right.png-a973cd657bf87fb59fadfba5d9197a0a.stex" ]
+source_file="res://assets/kenney_platformerpack/PNG/Ground/Sand/sandHill_right.png"
+dest_files=[ "res://.import/sandHill_right.png-592429f9d31c9c0126c96db3f2bf5949.stex" ]
 
 [params]
 
@@ -28,6 +28,7 @@ process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true

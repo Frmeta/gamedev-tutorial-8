@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/brickGrey.png-1012d549d15c6d698e9ce8047869f4cc.stex"
+path="res://.import/brickGrey.png-ac2ebb6b8588f909670d2920ad1ffaf6.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/kenney_platformerpack/PNG/Particles/brickGrey.png"
-dest_files=[ "res://.import/brickGrey.png-1012d549d15c6d698e9ce8047869f4cc.stex" ]
+source_file="res://assets/kenney_platformerpack/PNG/Particles/brickGrey.png"
+dest_files=[ "res://.import/brickGrey.png-ac2ebb6b8588f909670d2920ad1ffaf6.stex" ]
 
 [params]
 
@@ -28,6 +28,7 @@ process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true

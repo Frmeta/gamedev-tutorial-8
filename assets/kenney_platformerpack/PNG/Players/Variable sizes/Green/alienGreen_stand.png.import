@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/alienGreen_stand.png-3b0e6a288ccf63b7d276e6ba649ed050.stex"
+path="res://.import/alienGreen_stand.png-9a04bba466eb1b9b70328dacb77a7ebd.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/kenney_platformerpack/PNG/Players/Variable sizes/Green/alienGreen_stand.png"
-dest_files=[ "res://.import/alienGreen_stand.png-3b0e6a288ccf63b7d276e6ba649ed050.stex" ]
+source_file="res://assets/kenney_platformerpack/PNG/Players/Variable sizes/Green/alienGreen_stand.png"
+dest_files=[ "res://.import/alienGreen_stand.png-9a04bba466eb1b9b70328dacb77a7ebd.stex" ]
 
 [params]
 
@@ -28,6 +28,7 @@ process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true

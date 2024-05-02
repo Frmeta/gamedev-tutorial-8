@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/lavaTop_low.png-35e3e92e76ddeeb59a858395998f1c8f.stex"
+path="res://.import/lavaTop_low.png-6a03b4d6b01d206ce5c6562364a81586.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/kenney_platformerpack/PNG/Tiles/lavaTop_low.png"
-dest_files=[ "res://.import/lavaTop_low.png-35e3e92e76ddeeb59a858395998f1c8f.stex" ]
+source_file="res://assets/kenney_platformerpack/PNG/Tiles/lavaTop_low.png"
+dest_files=[ "res://.import/lavaTop_low.png-6a03b4d6b01d206ce5c6562364a81586.stex" ]
 
 [params]
 
@@ -28,6 +28,7 @@ process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true

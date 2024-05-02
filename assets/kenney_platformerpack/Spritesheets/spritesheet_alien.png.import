@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/spritesheet_alien.png-8580f7f5a49809ca13cce2a270c44820.stex"
+path="res://.import/spritesheet_alien.png-4db1e0bd524579103a30b1c3850f1fd1.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/kenney_platformerpack/Spritesheets/spritesheet_alien.png"
-dest_files=[ "res://.import/spritesheet_alien.png-8580f7f5a49809ca13cce2a270c44820.stex" ]
+source_file="res://assets/kenney_platformerpack/Spritesheets/spritesheet_alien.png"
+dest_files=[ "res://.import/spritesheet_alien.png-4db1e0bd524579103a30b1c3850f1fd1.stex" ]
 
 [params]
 
@@ -28,6 +28,7 @@ process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true

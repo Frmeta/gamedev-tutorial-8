@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/hudHeart_empty.png-345926a68915c3152d5176c376f39c46.stex"
+path="res://.import/hudHeart_empty.png-3b4161a43f34b8f233c948a6d459be7f.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/kenney_platformerpack/PNG/HUD/hudHeart_empty.png"
-dest_files=[ "res://.import/hudHeart_empty.png-345926a68915c3152d5176c376f39c46.stex" ]
+source_file="res://assets/kenney_platformerpack/PNG/HUD/hudHeart_empty.png"
+dest_files=[ "res://.import/hudHeart_empty.png-3b4161a43f34b8f233c948a6d459be7f.stex" ]
 
 [params]
 
@@ -28,6 +28,7 @@ process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true

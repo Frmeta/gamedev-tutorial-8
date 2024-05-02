@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/switchGreen.png-0dfdfec4d1b7d2edfe5c709de25506eb.stex"
+path="res://.import/switchGreen.png-2b88ce06f44ec5e85973873151992d15.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/kenney_platformerpack/PNG/Tiles/switchGreen.png"
-dest_files=[ "res://.import/switchGreen.png-0dfdfec4d1b7d2edfe5c709de25506eb.stex" ]
+source_file="res://assets/kenney_platformerpack/PNG/Tiles/switchGreen.png"
+dest_files=[ "res://.import/switchGreen.png-2b88ce06f44ec5e85973873151992d15.stex" ]
 
 [params]
 
@@ -28,6 +28,7 @@ process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true

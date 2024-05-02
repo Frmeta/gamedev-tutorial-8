@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/alienBeige_swim1.png-a65491997fb12d5911d47adcabd91be6.stex"
+path="res://.import/alienBeige_swim1.png-763484734a5fc090e7904a7f66479931.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/kenney_platformerpack/PNG/Players/128x256/Beige/alienBeige_swim1.png"
-dest_files=[ "res://.import/alienBeige_swim1.png-a65491997fb12d5911d47adcabd91be6.stex" ]
+source_file="res://assets/kenney_platformerpack/PNG/Players/128x256/Beige/alienBeige_swim1.png"
+dest_files=[ "res://.import/alienBeige_swim1.png-763484734a5fc090e7904a7f66479931.stex" ]
 
 [params]
 
@@ -28,6 +28,7 @@ process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true

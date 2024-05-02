@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/boxCrate.png-c061bd665e28a7c88c1ae68eb8b1e737.stex"
+path="res://.import/boxCrate.png-5bc6387c433fe11161de2fb836bd75f1.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/kenney_platformerpack/PNG/Tiles/boxCrate.png"
-dest_files=[ "res://.import/boxCrate.png-c061bd665e28a7c88c1ae68eb8b1e737.stex" ]
+source_file="res://assets/kenney_platformerpack/PNG/Tiles/boxCrate.png"
+dest_files=[ "res://.import/boxCrate.png-5bc6387c433fe11161de2fb836bd75f1.stex" ]
 
 [params]
 
@@ -28,6 +28,7 @@ process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true

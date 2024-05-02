@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/torchOff.png-3e63a46fb399a70e7b3c910d41f6d8f5.stex"
+path="res://.import/torchOff.png-3e56d698ea124cd01bdb920122aa50c3.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/kenney_platformerpack/PNG/Tiles/torchOff.png"
-dest_files=[ "res://.import/torchOff.png-3e63a46fb399a70e7b3c910d41f6d8f5.stex" ]
+source_file="res://assets/kenney_platformerpack/PNG/Tiles/torchOff.png"
+dest_files=[ "res://.import/torchOff.png-3e56d698ea124cd01bdb920122aa50c3.stex" ]
 
 [params]
 
@@ -28,6 +28,7 @@ process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/wormPink.png-1d30b950577200b37feb32c3324bcb10.stex"
+path="res://.import/wormPink.png-616e168d29ef2aeba85b19436b148b5e.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/kenney_platformerpack/PNG/Enemies/wormPink.png"
-dest_files=[ "res://.import/wormPink.png-1d30b950577200b37feb32c3324bcb10.stex" ]
+source_file="res://assets/kenney_platformerpack/PNG/Enemies/wormPink.png"
+dest_files=[ "res://.import/wormPink.png-616e168d29ef2aeba85b19436b148b5e.stex" ]
 
 [params]
 
@@ -28,6 +28,7 @@ process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true

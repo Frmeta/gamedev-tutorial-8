@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/alienPink_hit.png-9d9452ca5e15bf0c00c648ff4ceb1cf6.stex"
+path="res://.import/alienPink_hit.png-fb7ef7b482512c5abde0f2dc06742298.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/kenney_platformerpack/PNG/Players/Variable sizes/Pink/alienPink_hit.png"
-dest_files=[ "res://.import/alienPink_hit.png-9d9452ca5e15bf0c00c648ff4ceb1cf6.stex" ]
+source_file="res://assets/kenney_platformerpack/PNG/Players/Variable sizes/Pink/alienPink_hit.png"
+dest_files=[ "res://.import/alienPink_hit.png-fb7ef7b482512c5abde0f2dc06742298.stex" ]
 
 [params]
 
@@ -28,6 +28,7 @@ process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true

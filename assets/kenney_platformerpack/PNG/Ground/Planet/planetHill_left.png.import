@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/planetHill_left.png-0f15bd8c74c790c4fa31d3dfb65e94f6.stex"
+path="res://.import/planetHill_left.png-696077f822a2152a59b0fddfc0dde8f2.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/kenney_platformerpack/PNG/Ground/Planet/planetHill_left.png"
-dest_files=[ "res://.import/planetHill_left.png-0f15bd8c74c790c4fa31d3dfb65e94f6.stex" ]
+source_file="res://assets/kenney_platformerpack/PNG/Ground/Planet/planetHill_left.png"
+dest_files=[ "res://.import/planetHill_left.png-696077f822a2152a59b0fddfc0dde8f2.stex" ]
 
 [params]
 
@@ -28,6 +28,7 @@ process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true

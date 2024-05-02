@@ -1,9 +1,24 @@
-[gd_scene load_steps=5 format=2]
+[gd_scene load_steps=7 format=2]
 
 [ext_resource path="res://Scenes/Player.tscn" type="PackedScene" id=1]
 [ext_resource path="res://Assets/Tileset/StoneWorld.tres" type="TileSet" id=2]
 [ext_resource path="res://Assets/Familiar Looking Rocket.png" type="Texture" id=3]
 [ext_resource path="res://Scenes/Area Trigger.tscn" type="PackedScene" id=4]
+[ext_resource path="res://scenes/Spawner.tscn" type="PackedScene" id=5]
+
+[sub_resource type="ParticlesMaterial" id=1]
+emission_shape = 2
+emission_box_extents = Vector3( 2000, 1, 1 )
+flag_disable_z = true
+spread = 20.0
+gravity = Vector3( -500, 500, 0 )
+initial_velocity = 500.0
+orbit_velocity = 0.0
+orbit_velocity_random = 0.0
+angle = 45.0
+scale = 10.0
+scale_random = 0.5
+color = Color( 0.745098, 0.745098, 0.745098, 1 )
 
 [node name="Level 1" type="Node2D"]
 
@@ -28,3 +43,18 @@ sceneName = "Win Screen"
 [node name="Area Trigger" parent="." instance=ExtResource( 4 )]
 position = Vector2( 892.925, 781.593 )
 scale = Vector2( 22.6674, 0.033058 )
+
+[node name="Particles2D" type="Particles2D" parent="."]
+show_behind_parent = true
+position = Vector2( 1314, -149 )
+rotation = 3.14159
+amount = 500
+lifetime = 4.0
+speed_scale = 0.5
+visibility_rect = Rect2( -2000, -1000, 4000, 1000 )
+local_coords = false
+process_material = SubResource( 1 )
+
+[node name="Spawner" parent="." instance=ExtResource( 5 )]
+position = Vector2( 1700, 280 )
+spawn_rate = 1.0

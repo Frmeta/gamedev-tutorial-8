@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/alienYellow_walk2.png-e3351f484af57f93023bc760e444d5ca.stex"
+path="res://.import/alienYellow_walk2.png-8eadb5ec4eed207f9e1796cf2e818582.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/kenney_platformerpack/PNG/Players/128x256/Yellow/alienYellow_walk2.png"
-dest_files=[ "res://.import/alienYellow_walk2.png-e3351f484af57f93023bc760e444d5ca.stex" ]
+source_file="res://assets/kenney_platformerpack/PNG/Players/128x256/Yellow/alienYellow_walk2.png"
+dest_files=[ "res://.import/alienYellow_walk2.png-8eadb5ec4eed207f9e1796cf2e818582.stex" ]
 
 [params]
 
@@ -28,6 +28,7 @@ process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true

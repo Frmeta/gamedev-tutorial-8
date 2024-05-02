@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/lockRed.png-1e2c93168061585a5f2f595ab3d2054f.stex"
+path="res://.import/lockRed.png-430f0c224b2380b27d4e7b9c1c92db61.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/kenney_platformerpack/PNG/Tiles/lockRed.png"
-dest_files=[ "res://.import/lockRed.png-1e2c93168061585a5f2f595ab3d2054f.stex" ]
+source_file="res://assets/kenney_platformerpack/PNG/Tiles/lockRed.png"
+dest_files=[ "res://.import/lockRed.png-430f0c224b2380b27d4e7b9c1c92db61.stex" ]
 
 [params]
 
@@ -28,6 +28,7 @@ process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true

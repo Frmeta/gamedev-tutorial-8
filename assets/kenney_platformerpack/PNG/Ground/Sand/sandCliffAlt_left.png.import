@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/sandCliffAlt_left.png-475d1022643ba87a2ee29a57cf210a00.stex"
+path="res://.import/sandCliffAlt_left.png-b28cf2a9925df888385e255690824bc0.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/kenney_platformerpack/PNG/Ground/Sand/sandCliffAlt_left.png"
-dest_files=[ "res://.import/sandCliffAlt_left.png-475d1022643ba87a2ee29a57cf210a00.stex" ]
+source_file="res://assets/kenney_platformerpack/PNG/Ground/Sand/sandCliffAlt_left.png"
+dest_files=[ "res://.import/sandCliffAlt_left.png-b28cf2a9925df888385e255690824bc0.stex" ]
 
 [params]
 
@@ -28,6 +28,7 @@ process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/ladybug_fly.png-ae84b5795d0838e2bae9260b5bc56f07.stex"
+path="res://.import/ladybug_fly.png-c328897d00a4174280bcd76a5bce505a.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/kenney_platformerpack/PNG/Enemies/ladybug_fly.png"
-dest_files=[ "res://.import/ladybug_fly.png-ae84b5795d0838e2bae9260b5bc56f07.stex" ]
+source_file="res://assets/kenney_platformerpack/PNG/Enemies/ladybug_fly.png"
+dest_files=[ "res://.import/ladybug_fly.png-c328897d00a4174280bcd76a5bce505a.stex" ]
 
 [params]
 
@@ -28,6 +28,7 @@ process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true
