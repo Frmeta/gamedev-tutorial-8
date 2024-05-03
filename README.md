@@ -52,3 +52,8 @@
         - Menambahkan furniture lain
         - Membuat tutorial
         - UI dibuat lebih besar agar terlihat
+
+Proses pengerjaan tutorial:
+- Membuat particle seperti hujan salju menggunakan node `Partciles2D`
+- Membuat trail particle yang hanya muncul ketika player berjalan menggunakan `Particles2D`. Toggle on dan off menggunakan `set_emitting(true/false)`
+- Menambahkan `Spawner.tscn` ke scene level dan mengubah spawn rate menjadi 1.
